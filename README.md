@@ -8,7 +8,7 @@ Exponga un Servicio Web para:
   Consultar el historial crediticio de un cliente
   Consulta de Uso de Web Services (Filtros: Nombre WS, Rango de fecha de invocación)
 
-# Consultar la tasa de cambio segun la moneda indicada
+## Consultar la tasa de cambio segun la moneda indicada
 #### Requerimiento
    
  
@@ -17,7 +17,7 @@ Exponga un Servicio Web para:
 #### **Retorna**  
 - Tasa cambiaria (Monto 999.99)  
   
-# Consultar el índice de inflación del período 
+## Consultar el índice de inflación del período 
 #### Requerimiento
 
 **Recibe**:
@@ -25,7 +25,7 @@ Exponga un Servicio Web para:
 #### **Retorna**
 - Indice de Inflación (999.99) %
 
-# Consultar la salud Financiera de un cliente
+## Consultar la salud Financiera de un cliente
 #### Requerimiento
 
 **Recibe:**  
@@ -35,7 +35,7 @@ Exponga un Servicio Web para:
 - Comentario  
 - Monto Total adeudado  
 
-# Consulta de Uso de Web Services (Filtros: Nombre WS, Rango de fecha de invocación)
+## Consulta de Uso de Web Services (Filtros: Nombre WS, Rango de fecha de invocación)
 #### Requerimiento
 
 **Recibe:**
